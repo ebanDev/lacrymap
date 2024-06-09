@@ -1,0 +1,272 @@
+cases:
+  - name: Zineb Redouane
+    location: [ 43.29653194748495, 5.37903534893137 ]
+    source: https://www.amnesty.fr/personnes/zineb-redouane-violences-policieres-tuee-a-sa-fenetre-par-une-grenade-lacrymogene
+    date: 02-12-2018
+    deathCount: 1
+    description: Zineb Redouane, 80 ans, est décédée le 2 décembre 2018 à Marseille après avoir été touchée par une grenade lacrymogène alors qu'elle se trouvait à sa fenêtre. Elle a été touchée au visage par une grenade lacrymogène alors qu'elle fermait les volets de son appartement. Elle est décédée le lendemain à l'hôpital.
+    proven: true
+
+  - name: Steve Maia Caniço
+    location: [ 47.19965965749029, -1.568661652422639 ]
+    source: https://disclose.ngo/fr/article/mort-de-steve-expertise-judiciaire-demontre-responsabilite-de-la-police
+    date: 21-06-2019
+    deathCount: 1
+    description: Steve Maia Caniço, 24 ans, est décédé le 21 juin 2019 à Nantes après une intervention policière. Il a été vu pour la dernière fois lors d'une intervention policière sur le quai Wilson à Nantes. Son corps a été retrouvé dans la Loire un mois plus tard.
+    proven: true
+
+  - name: Mohamadi
+    location: [ -12.823559614165509, 45.129595506310245 ]
+    source: https://www.streetpress.com/sujet/1583320057-mere-bebe-decede-mayotte-apres-avoir-inhale-des-lacrymogenes-raconte
+    date: 28-02-2020
+    deathCount: 1
+    description: Mohamadi, 3 mois, est décédé le 28 février 2020 à Mayotte après avoir inhalé des gaz lacrymogènes.
+    proven: true
+
+  - name: Indonésie, Arema FC VS Persebaya Surabaya
+    location: [ -7.975578650784255, 112.62455272941733 ]
+    source: https://www.amnesty.org/en/latest/news/2022/10/indonesia-football-stampede-deaths/
+    date: 01-10-2022
+    deathCount: 135
+    description: 135 personnes sont décédées le 1er octobre 2022 lors d'un match de football entre le Arema FC et Persebaya Surabaya à Malang, en Indonésie. Les forces de police ont utilisé des gaz lacrymogènes pour disperser les supporters, provoquant une bousculade mortelle.
+    proven: true
+
+  - name: Salma Mohsin Abbas
+    location: [ 26.226177533407284, 50.47893637168368 ]
+    source: https://www.amnesty.org/en/latest/news/2012/01/bahrain-s-use-tear-gas-against-protesters-increasingly-deadly-2/
+    date: 13-01-2012
+    deathCount: 1
+    description: Salma Mohsin Abbas, 81 ans, est décédée le 13 janvier 2012 à Manama, Bahreïn, après avoir inhalé des gaz lacrymogènes jetés par un officier de police dans sa maison.
+    proven: true
+
+  - name: Yaseen Al Asfoor
+    location: [ 26.137167650884457, 50.612808018596766 ]
+    source: https://www.amnesty.org/en/latest/news/2012/01/bahrain-s-use-tear-gas-against-protesters-increasingly-deadly-2/
+    date: 20-01-2012
+    deathCount: 1
+    description: Yaseen Al Asfoor, 14 ans, est décédé le 20 janvier 2012 à Manama, Bahreïn, après avoir inhalé des gaz lacrymogènes lancés par la police vers sa maison.
+    proven: true
+
+  - name: Personne non identifiée, 62 ans
+    location: [ 47.20577934090879, -1.573067331926413 ]
+    source: https://contre-attaque.net/2023/03/26/nantes-un-homme-decede-en-quittant-une-manifestation-fortement-reprimee/
+    date: 23-03-2023
+    deathCount: 1
+    description: Une personne non identifiée de 62 est décédée le 23 mars 2023 à Nantes après avoir inhalé des gaz lacrymogènes lors d'une manifestation. L'autopsie n'a pas permis de déterminer la cause exacte du décès.
+    proven: false
+
+  - name: Personne non identifiée
+    location: [ 48.59862636976527, 37.99683288071277 ]
+    source: https://www.lemonde.fr/en/international/article/2024/01/23/war-in-ukraine-kyiv-faced-with-an-upsurge-in-the-use-of-gas-by-the-russian-army_6456789_4.html
+    date: 23-01-2024
+    deathCount: 1
+    description: Une personne non identifiée est décédée à Kharkiv, Ukraine, après avoir inhalé des gaz lacrymogènes utilisés par l'armée russe.
+    proven: true
+
+  - name: Mustafa Tamimi
+    location: [ 32.01643641069518, 35.1244870349318 ]
+    source: https://en.wikipedia.org/wiki/Killing_of_Mustafa_Tamimi
+    date: 10-12-2011
+    deathCount: 1
+    description: Mustafa Tamimi, 28 ans, est décédé le 10 décembre 2011 à Nabi Saleh, en Cisjordanie (Palestine), après avoir été touché à la tête par une grenade lacrymogène tirée par un soldat israélien.
+    proven: true
+
+  - name: Jamel Floyd
+    location: [ 40.65989945285936, -74.00377748957101 ]
+    source: https://www.nbcnews.com/politics/justice-department/doj-watchdog-launches-probe-death-prisoner-pepper-sprayed-guards-n1225061
+    date: 03-06-2020
+    deathCount: 1
+    description: Jamel Floyd, 35 ans, est décédé le 3 juin 2020 à Brooklyn, New York, après avoir été aspergé de gaz au poivre par des gardiens de prison.
+    proven: true
+
+  - name: Leo Dawson
+    location: [ 40.58971880807719, -73.66598008774207 ]
+    source: https://fr.scribd.com/document/98447918/Pepper-Spray-Update-More-Fatalities-More-Questions
+    date: 27-04-1995
+    deathCount: 1
+    description: Leo Dawson, 27 ans, est décédé le 27 avril 1995 à Brooklyn, New York, après avoir été aspergé de gaz au poivre par des policiers.
+    proven: true
+
+  - name: Leo Dawson
+    location: [ 40.58971880807719, -73.66598008774207 ]
+    source: https://fr.scribd.com/document/98447918/Pepper-Spray-Update-More-Fatalities-More-Questions
+    date: 27-04-1995
+    deathCount: 1
+    description: Leo Dawson, 27 ans, est décédé le 27 avril 1995 à Brooklyn, New York, après avoir été aspergé de gaz au poivre par des policiers.
+    proven: true
+
+  - name: Javier Sandoval Trejo
+    location: [ 33.717471, -117.831143 ]
+    source: https://fr.scribd.com/document/98447918/Pepper-Spray-Update-More-Fatalities-More-Questions
+    date: 23-04-1995
+    deathCount: 1
+    description: Javier Sandoval Trejo, 43 ans, est décédé le 23 avril 1995 après avoir été aspergé de gaz poivre par les shérifs du comté d'Orange. Malgré les efforts pour le réanimer, il est décédé peu après.
+    proven: true
+
+  - name: Gregory Jenson
+    location: [ 33.659483, -117.998803 ]
+    source: https://fr.scribd.com/document/98447918/Pepper-Spray-Update-More-Fatalities-More-Questions
+    date: 11-12-1994
+    deathCount: 1
+    description: Gregory Jenson, 37 ans, est décédé le 11 décembre 1994 après avoir été aspergé de gaz poivre par la police de Huntington Beach. La cause officielle de la mort est un œdème pulmonaire aigu dû à une intoxication à la cocaïne et aux méthamphétamines.
+    proven: true
+
+  - name: Charles Earnest Mann
+    location: [ 39.091572, -120.803947 ]
+    source: https://fr.scribd.com/document/98447918/Pepper-Spray-Update-More-Fatalities-More-Questions
+    date: 14-07-1994
+    deathCount: 1
+    description: Charles Earnest Mann, 43 ans, est décédé le 14 juillet 1994 après avoir été aspergé de gaz poivre par les shérifs du comté de Placer. Sa mort a été attribuée à un syndrome de delirium tremens aggravé par l'hypertension cardiaque.
+    proven: true
+
+  - name: Daniel Lee Price
+    location: [ 32.715736, -117.161087 ]
+    source: https://fr.scribd.com/document/98447918/Pepper-Spray-Update-More-Fatalities-More-Questions
+    date: 28-06-1994
+    deathCount: 1
+    description: Daniel Lee Price, 35 ans, est décédé le 28 juin 1994 après avoir été aspergé de gaz poivre par les shérifs du comté de San Diego. La cause officielle de la mort est une asphyxie positionnelle entraînant un arrêt cardiaque.
+    proven: true
+
+  - name: Craig E. Denault
+    location: [ 34.052235, -118.243683 ]
+    source: https://fr.scribd.com/document/98447918/Pepper-Spray-Update-More-Fatalities-More-Questions
+    date: 19-04-1994
+    deathCount: 1
+    description: Craig E. Denault, 47 ans, est décédé le 19 avril 1994 après avoir été aspergé de gaz poivre par un policier de Los Angeles. La cause officielle de la mort est une blessure par balle auto-infligée.
+    proven: true
+
+  - name: Tony Steven Johnson
+    location: [ 38.581572, -121.494400 ]
+    source: https://fr.scribd.com/document/98447918/Pepper-Spray-Update-More-Fatalities-More-Questions
+    date: 18-04-1994
+    deathCount: 1
+    description: Tony Steven Johnson, 28 ans, est décédé le 18 avril 1994 après avoir été aspergé de gaz poivre par les shérifs du comté de Sacramento. La cause officielle de la mort est une toxicité aiguë à la méthamphétamine.
+    proven: true
+
+  - name: David Barrera Del Real
+    location: [ 38.249358, -122.039966 ]
+    source: https://fr.scribd.com/document/98447918/Pepper-Spray-Update-More-Fatalities-More-Questions
+    date: 08-04-1994
+    deathCount: 1
+    description: David Barrera Del Real, 21 ans, est décédé le 8 avril 1994 après avoir été aspergé de gaz poivre par les shérifs du comté de Solano. La cause officielle de la mort est une overdose de méthamphétamine.
+    proven: true
+
+  - name: Frank Hernandez
+    location: [ 34.063344, -117.650887 ]
+    source: https://fr.scribd.com/document/98447918/Pepper-Spray-Update-More-Fatalities-More-Questions
+    date: 27-03-1994
+    deathCount: 1
+    description: Frank Hernandez, 47 ans, est décédé le 27 mars 1994 après avoir été aspergé de gaz poivre par la police d'Ontario. La cause officielle de la mort est une blessure par balle.
+    proven: true
+
+  - name: Gerardo Jaurequi
+    location: [38.2975381, -122.286865]
+    source: https://fr.scribd.com/document/98447918/Pepper-Spray-Update-More-Fatalities-More-Questions
+    date: 08-12-1993
+    deathCount: 1
+    description: Gerardo Jaurequi, 33 ans, est décédé le 8 décembre 1993 après avoir été aspergé de gaz poivré par les députés du comté de Napa. Il avait été arrêté après avoir causé des perturbations sur la route.
+    proven: true
+
+  - name: Jeffrey Thomas Scott
+    location: [36.961335, -120.060717]
+    source: https://fr.scribd.com/document/98447918/Pepper-Spray-Update-More-Fatalities-More-Questions
+    date: 07-12-1993
+    deathCount: 1
+    description: Jeffrey Thomas Scott, 34 ans, est décédé le 7 décembre 1993 après avoir été aspergé de gaz poivré par les policiers de Madera. Il avait été arrêté pour conduite imprudente et comportement agressif.
+    proven: true
+
+  - name: Luis Enrique Leija
+    location: [34.4208305, -119.6981901]
+    source: https://fr.scribd.com/document/98447918/Pepper-Spray-Update-More-Fatalities-More-Questions
+    date: 28-09-1993
+    deathCount: 1
+    description: Luis Enrique Leija, 30 ans, est décédé le 28 septembre 1993 après avoir été aspergé de gaz poivré par les policiers de Santa Barbara. Il avait été hospitalisé pour une overdose de cocaïne.
+    proven: true
+
+  - name: Jose R. Martinez
+    location: [36.7377981, -119.7871247]
+    source: https://fr.scribd.com/document/98447918/Pepper-Spray-Update-More-Fatalities-More-Questions
+    date: 15-09-1993
+    deathCount: 1
+    description: Jose R. Martinez, 26 ans, est décédé le 15 septembre 1993 après avoir été aspergé de gaz poivré par les policiers de Fresno. Il avait résisté à son arrestation pour usage de drogues.
+    proven: true
+
+  - name: Candalario Lopez Herrera
+    location: [33.8475962, -118.124321]
+    source: https://fr.scribd.com/document/98447918/Pepper-Spray-Update-More-Fatalities-More-Questions
+    date: 10-09-1993
+    deathCount: 1
+    description: Candalario Lopez Herrera, 35 ans, est décédé le 10 septembre 1993 après avoir été aspergé de gaz poivré par les députés du comté de Los Angeles. Il avait été arrêté pour possession de drogue.
+    proven: true
+
+  - name: Michael Alan West
+    location: [34.1083449, -117.2897652]
+    source: https://fr.scribd.com/document/98447918/Pepper-Spray-Update-More-Fatalities-More-Questions
+    date: 24-08-1993
+    deathCount: 1
+    description: Michael Alan West, 44 ans, est décédé le 24 août 1993 après avoir été aspergé de gaz poivré par les policiers de San Bernardino. Il avait été arrêté pour tentative de vol et agression.
+    proven: true
+
+  - name: Mario Silva
+    location: [32.715738, -117.1610838]
+    source: https://fr.scribd.com/document/98447918/Pepper-Spray-Update-More-Fatalities-More-Questions
+    date: 24-08-1993
+    deathCount: 1
+    description: Mario Silva, 40 ans, est décédé le 24 août 1993 après avoir été aspergé de gaz poivré par les policiers de San Diego. Il avait été arrêté pour comportement irrationnel.
+    proven: true
+
+  - name: Frank Ballard (a.k.a. Frank Ballardo)
+    location: [34.052235, -118.243683]
+    source: https://fr.scribd.com/document/98447918/Pepper-Spray-Update-More-Fatalities-More-Questions
+    date: 18-08-1993
+    deathCount: 1
+    description: Frank Ballard, 40 ans, est décédé le 18 août 1993 après avoir été aspergé de gaz poivré par les policiers de Los Angeles. Il avait été arrêté pour comportement irrationnel et tentative de blessure.
+    proven: true
+
+  - name: Richard Garcia
+    location: [38.581572, -121.4944]
+    source: https://fr.scribd.com/document/98447918/Pepper-Spray-Update-More-Fatalities-More-Questions
+    date: 05-08-1993
+    deathCount: 1
+    description: Richard Garcia, 28 ans, est décédé le 5 août 1993 après avoir été aspergé de gaz poivré par les députés du comté de Sacramento. Il avait été arrêté pour comportement violent et usage de drogue.
+    proven: true
+
+  - name: Danny Sanford
+    location: [34.1083449, -117.2897652]
+    source: https://fr.scribd.com/document/98447918/Pepper-Spray-Update-More-Fatalities-More-Questions
+    date: 02-08-1993
+    deathCount: 1
+    description: Danny Sanford, 32 ans, est décédé le 2 août 1993 après avoir été aspergé de gaz poivré par les policiers de San Bernardino. Il avait été arrêté pour comportement irrationnel.
+    proven: true
+
+  - name: Raymond Frix
+    location: [32.792, -115.563]
+    source: https://fr.scribd.com/document/98447918/Pepper-Spray-Update-More-Fatalities-More-Questions
+    date: 23-06-1993
+    deathCount: 1
+    description: Raymond Frix, 27 ans, est décédé le 23 juin 1993 à El Centro après une altercation avec la police impliquant des coups de bâton et l'utilisation de gaz poivré. Il est mort d'un arrêt cardiaque après avoir été transporté au poste de police pour des premiers soins suite à l'inhalation de gaz poivré.
+    proven: true
+
+  - name: Sarah Grossman
+    location: [39.95494401956343, -82.99084045970797]
+    source: https://www.9news.com.au/world/us-protester-dies-after-exposure-to-tear-gas/5ba715fb-ab9f-4b64-9f82-11e5b473adda
+    date: 28-05-2020
+    deathCount: 1
+    description: Sarah Grossman, 22 ans, est décédée le 28 mai 2020 à Columbus, Ohio, après avoir été exposée à des gaz lacrymogènes lors d'une manifestation.
+    proven: true
+
+  - name: Caracas Nightclub
+    location: [10.496, -66.898]
+    source: https://www.npr.org/2018/06/17/620770821/17-die-after-tear-gas-leads-to-stampede-in-caracas-nightclub/
+    date: 17-06-2018
+    deathCount: 11
+    description: 11 personnes sont décédées le 16 juin 2018 à Caracas, Venezuela, après que les forces de sécurité ont lancé des gaz lacrymogènes dans une boîte de nuit pour disperser une bagarre.
+    proven: true
+
+  - name: Palestinians death toll since 2008
+    location: [31.946570, 35.273426]
+    source: https://www.ochaopt.org/data/casualties
+    date: 01-01-2008
+    deathCount: 22
+    description: Depuis 2008, 22 Palestiniens sont morts après avoir été touchés ou avoir inhalé des grenades lacrymogènes tirées par les forces israéliennes.
+    proven: true

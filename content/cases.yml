@@ -270,3 +270,10 @@ cases:
     deathCount: 1
     description: Byron Guatatuca, un membre de la communauté indigène Kichwa a été tué par la police équatorienne en reçevant une grenade lacrymogène lui ayant fracturé le crâne.
     proven: true
+
+  - name: Mass casualties in Iraq 2019 protests repression
+    location: [30.529568182702313, 47.76810290839376]
+    date: 01-01-2020
+    source: https://www.ohchr.org/sites/default/files/Documents/Countries/IQ/Demonstrations-Iraq-UNAMI-OHCHR-report.pdf
+    deathCount: 28
+    description: Le régime irakien lors de la répression de manifestations en 2019 et 2020 tue 359 manifestants, dont 28 du fait de l'utilisation de gazs lacrymogènes

@@ -262,3 +262,11 @@ cases:
     deathCount: 22
     description: Depuis 2008, 22 Palestiniens sont morts après avoir été touchés ou avoir inhalé des grenades lacrymogènes tirées par les forces israéliennes.
     proven: true
+
+  - name: Byron Guatatuca
+    location: [-0.7829964517121253, -80.51367385771631]
+    date: 21-06-2022
+    source: https://lethalindisguise.org/case-studies/ecuador/
+    deathCount: 1
+    description: Byron Guatatuca, un membre de la communauté indigène Kichwa a été tué par la police équatorienne en reçevant une grenade lacrymogène lui ayant fracturé le crâne.
+    proven: true
